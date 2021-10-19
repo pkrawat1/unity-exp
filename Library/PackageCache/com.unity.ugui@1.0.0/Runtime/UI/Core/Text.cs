@@ -218,6 +218,12 @@ namespace UnityEngine.UI
                     SetVerticesDirty();
                     SetLayoutDirty();
                 }
+                else
+                {
+                    // To fix case 1320719; when the same character is entered multiple times, we still need to recalculate the layout
+                    // After maybe the area will be bigger and will contain more characters
+                    SetLayoutDirty();
+                }
             }
         }
 

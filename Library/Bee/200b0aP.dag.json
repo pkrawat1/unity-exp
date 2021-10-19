@@ -6490,8 +6490,7 @@
   ],
   "GlobSignatures": [
     {
-      "Path": "/Applications/Unity/Unity.app/Contents/Tools/BuildPipeline",
-      "Filter": "*"
+      "Path": "/Applications/Unity/Unity.app/Contents/Tools/BuildPipeline"
     }
   ],
   "ContentDigestExtensions": [

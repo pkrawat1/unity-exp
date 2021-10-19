@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: /Users/rawat/Projects/unity/firstExp/Packages
-m_EditorVersion: 2022.1.0a11 (ae01f5fb527d)
+m_EditorVersion: 2022.1.0a12 (816252c3efbb)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@2.8.1
   testable: 0
@@ -205,6 +205,8 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
+    - 1.7.1
+    - 1.8.0
     - 1.9.0
     - 1.10.2
     - 1.11.2
@@ -220,7 +222,7 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.9.0
+    verified: 1.7.1
   dependencies: []
   resolvedDependencies: []
   keywords:
@@ -256,7 +258,7 @@ m_ResolvedPackages:
     revision: 51447944a1e7d94937e6b7f9e887d58f5097ed13
     path: 
   unityLifecycle:
-    version: 1.9.0
+    version: 1.7.1
     nextVersion: 
 - packageId: com.unity.ide.rider@3.0.7
   testable: 0
